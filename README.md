@@ -1,4 +1,4 @@
-# TeamDAlarmClock
+# Alarm and Weather
 
 Team members: Christian Howe, Wyatt Lawrence, Evan Mitchell, Colin Ferguson
 
