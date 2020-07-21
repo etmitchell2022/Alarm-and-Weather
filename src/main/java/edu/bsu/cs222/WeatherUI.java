@@ -66,7 +66,7 @@ public class WeatherUI extends Application {
         getWeather.setOnAction(e->weatherButtonClicked());
 
         stage.setScene(scene);
-        stage.setTitle("Ball State Weather");
+        stage.setTitle("BSU Weather");
         liveClock.start();
         stage.show();
     }
